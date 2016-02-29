@@ -1,0 +1,14 @@
+Recent Changes for Image Viewer Application
+===========================================
+
+This is not a real change log, but more of an example
+based on the Doodle example included with the wxPython
+demo package. 
+
+Version 0.1.0
+-------------
+    * Refactored the Frame, Panel and App into their own classes
+	
+Version 0.0.1
+-------------
+    * Initial release
